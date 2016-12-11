@@ -105,7 +105,7 @@ brew install pkg-config
 Then:
 
 ```
-pip install matplotlib
+pip install ignore-installed matplotlib
 
 ```
 
